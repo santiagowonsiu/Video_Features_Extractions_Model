@@ -1,0 +1,31 @@
+Title: I Saw the TV Glow, URL: /movie-reviews/i-saw-the-tv-glow
+Title: Quiet on Set: The Dark Side of Kids TV, URL: /tv-reviews/quiet-on-set-the-dark-side-of-kids-tv
+Title: Zombies: The Re-Animated Series, URL: /tv-reviews/zombies-the-re-animated-series
+Title: Ark: The Animated Series, URL: /tv-reviews/ark-the-animated-series
+Title: The 8 Show, URL: /tv-reviews/the-8-show
+Title: The Magic Prank Show with Justin Willman, URL: /tv-reviews/the-magic-prank-show-with-justin-willman
+Title: Jerrod Carmichael Reality Show, URL: /tv-reviews/jerrod-carmichael-reality-show
+Title: The Vince Staples Show, URL: /tv-reviews/the-vince-staples-show
+Title: The Addams Family (Animated TV Series), URL: /tv-reviews/the-addams-family-animated-tv-series
+Title: Catfish: The TV Show, URL: /tv-reviews/catfish-the-tv-show
+Title: Spider-Man (1981 TV Show), URL: /tv-reviews/spider-man-1981-tv-show
+Title: Ape Star, URL: /movie-reviews/ape-star
+Title: Ernest & Celestine, URL: /movie-reviews/ernest-celestine
+Title: Ernest and Celestine: A Trip to Gibberitia, URL: /movie-reviews/ernest-and-celestine-a-trip-to-gibberitia
+Title: Moomins and the Winter Wonderland, URL: /movie-reviews/moomins-and-the-winter-wonderland
+Title: Yellow Submarine, URL: /movie-reviews/yellow-submarine
+Title: Chicken Run, URL: /movie-reviews/chicken-run
+Title: Fantastic Mr. Fox, URL: /movie-reviews/fantastic-mr-fox
+Title: Felix and the Hidden Treasure, URL: /movie-reviews/felix-and-the-hidden-treasure
+Title: The Garfield Movie, URL: /movie-reviews/the-garfield-movie
+Title: James and the Giant Peach, URL: /movie-reviews/james-and-the-giant-peach
+Title: The Nightmare Before Christmas, URL: /movie-reviews/the-nightmare-before-christmas
+Title: Song of the Sea, URL: /movie-reviews/song-of-the-sea
+Title: Strike, URL: /movie-reviews/strike
+Title: Wallace & Gromit, URL: /movie-reviews/wallace-gromit
+Title: 10 Lives, URL: /movie-reviews/10-lives
+Title: Arlo the Alligator Boy, URL: /movie-reviews/arlo-the-alligator-boy
+Title: Howl's Moving Castle, URL: /movie-reviews/howls-moving-castle
+Title: Leo, URL: /movie-reviews/leo
+Title: Marcel the Shell with Shoes On, URL: /movie-reviews/marcel-the-shell-with-shoes-on
+Title: A Monster in Paris, URL: /movie-reviews/a-monster-in-paris

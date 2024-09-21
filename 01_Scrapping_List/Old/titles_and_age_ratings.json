@@ -1,0 +1,786 @@
+[
+    {
+        "title": "The Guava Juice Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "Hello, Jack!: The Kindness Show",
+        "age_rating": "age 2+"
+    },
+    {
+        "title": "The Kids Tonight Show",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "The D\u2019Amelio Show",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "The Patrick Star Show",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "The Choe Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The Snoopy Show",
+        "age_rating": "age 4+"
+    },
+    {
+        "title": "Go-Big Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "Baby Shark's Big Show",
+        "age_rating": "age 4+"
+    },
+    {
+        "title": "That Animal Rescue Show",
+        "age_rating": "age 9+"
+    },
+    {
+        "title": "The Amber Ruffin Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "Alien TV",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Not-Too-Late Show with Elmo",
+        "age_rating": "age 3+"
+    },
+    {
+        "title": "Celebrity Show-Off",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The Scooby-Doo Show",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "The Paper Girls Show",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "The Big Show Show",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "Gayme Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Hot Ones: The Game Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Morning Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "A Black Lady Sketch Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Chef Show",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "Norm MacDonald Has a Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The Sidemen Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Big Fun Crafty Show",
+        "age_rating": "age 5+"
+    },
+    {
+        "title": "The Who Was? Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Alec Baldwin Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Joel McHale Show with Joel McHale",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Stinky & Dirty Valentine's Day Show",
+        "age_rating": "age 3+"
+    },
+    {
+        "title": "The Ruff Ruffman Show",
+        "age_rating": "age 4+"
+    },
+    {
+        "title": "The Gong Show",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "The Jim Jefferies Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Ollie & Moon Show",
+        "age_rating": "age 4+"
+    },
+    {
+        "title": "The President Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Gorburger Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Great American Baking Show",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "Shooter (TV Series)",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Tracey Ullman's Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Almost Impossible Game Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Outdoor Sports Show",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "Lethal Weapon (TV Series)",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Stinky & Dirty Show",
+        "age_rating": "age 3+"
+    },
+    {
+        "title": "Amber Rose Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "Baroness von Sketch Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "RocketJump: The Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Mr. Peabody & Sherman Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Daily Show with Trevor Noah",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Late Show with Stephen Colbert",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Carmichael Show",
+        "age_rating": "age 12+"
+    },
+    {
+        "title": "Show Me a Hero",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Jim Gaffigan Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Grace Helbig Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Late Late Show with James Corden",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Jack and Triumph Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Broke A$$ Game Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Nightly Show with Larry Wilmore",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "Bam's Bad Ass Game Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The Tom and Jerry Show",
+        "age_rating": "age 5+"
+    },
+    {
+        "title": "The Tonight Show with Jimmy Fallon",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "HitRECord on TV",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "Trust Me, I'm A Game Show Host",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Michael J. Fox Show",
+        "age_rating": "age 12+"
+    },
+    {
+        "title": "AwesomenessTV",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Show with Vinny",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Ben Show with Ben Hoffman",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "Kroll Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The Chica Show",
+        "age_rating": "age 3+"
+    },
+    {
+        "title": "Catfish: The TV Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "Beauty and the Beast (TV)",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Eric Andre Show",
+        "age_rating": "age 18+"
+    },
+    {
+        "title": "The Ricky Gervais Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "Stevie TV",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The Aquabats! Super Show!",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "Green Lantern: The Animated Series",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "Fred: The Show",
+        "age_rating": "age 11+"
+    },
+    {
+        "title": "The Looney Tunes Show",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Paul Reiser Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "Sports Show with Norm MacDonald",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Twisted Whiskers Show",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "Regular Show",
+        "age_rating": "age 11+"
+    },
+    {
+        "title": "The Great British Baking Show",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "101 Ways to Leave a Game Show",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "Doodlebops Rockin' Road Show",
+        "age_rating": "age 4+"
+    },
+    {
+        "title": "The Wanda Sykes Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Garfield Show",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "The Jeff Dunham Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Mo'Nique Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Cleveland Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Super Hero Squad Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Jay Leno Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The T.O. Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Show Me Show Me",
+        "age_rating": "age 2+"
+    },
+    {
+        "title": "The Fashion Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "Fuel TV Presents Camp Woodward",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "The CollegeHumor Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "Game Show in My Head",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "The Drinky Crow Show",
+        "age_rating": "age 18+"
+    },
+    {
+        "title": "The Cho Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Gong Show with Dave Attell",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Atom TV",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "I Survived a Japanese Game Show",
+        "age_rating": "age 12+"
+    },
+    {
+        "title": "iCarly Saves TV",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "Spaceballs: The Animated Series",
+        "age_rating": "age 11+"
+    },
+    {
+        "title": "The Mr. Men Show",
+        "age_rating": "age 4+"
+    },
+    {
+        "title": "El Chavo: The Animated Series",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "Transformers: Animated",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "Frank TV",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "Katy Brand's Big Ass Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Salt-N-Pepa Show",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "TMZ TV",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The Bill Engvall Show",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "The Let's Go Show",
+        "age_rating": "age 2+"
+    },
+    {
+        "title": "The Graham Norton Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The Sprout Sharing Show",
+        "age_rating": "age 2+"
+    },
+    {
+        "title": "Web Shows",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Tim and Eric Awesome Show, Great Job!",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Naked Trucker & T-Bones Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "ego trip's The (White) Rapper Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Show Me the Money",
+        "age_rating": "age 12+"
+    },
+    {
+        "title": "The Upside Down Show",
+        "age_rating": "age 3+"
+    },
+    {
+        "title": "Freak Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "MTV's Little Talent Show",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "The Secret Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Dude Perfect Show",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Good Night Show",
+        "age_rating": "age 2+"
+    },
+    {
+        "title": "The Showbiz Show with David Spade",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Jack's Big Music Show",
+        "age_rating": "age 2+"
+    },
+    {
+        "title": "The Andy Milonakis Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Late Late Show with Craig Ferguson",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Blue Collar TV",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "Skunked TV",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "The Ashlee Simpson Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "Shanna's Show",
+        "age_rating": "age 3+"
+    },
+    {
+        "title": "The Catherine Tate Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Swap TV",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "Peep Show",
+        "age_rating": "age 17+"
+    },
+    {
+        "title": "The Ellen DeGeneres Show",
+        "age_rating": "age 11+"
+    },
+    {
+        "title": "The Joe Schmo Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "Spider-Man: The New Animated Series",
+        "age_rating": "age 9+"
+    },
+    {
+        "title": "Chappelle's Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "Camp TV",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "DragonflyTV",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "Mr. Bean: The Animated Series",
+        "age_rating": "age 12+"
+    },
+    {
+        "title": "The Bernie Mac Show",
+        "age_rating": "age 12+"
+    },
+    {
+        "title": "The Mummy: The Animated Series",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "Anne of Green Gables: The Animated Series",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "Animated Tales of the World",
+        "age_rating": "age 5+"
+    },
+    {
+        "title": "The Brak Show",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "Kong: The Animated Series",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "Da Ali G Show",
+        "age_rating": "age 17+"
+    },
+    {
+        "title": "The Amanda Show",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "Sabrina: The Animated Series",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Man Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The New Woody the Woodpecker Show",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Daily Show with Jon Stewart",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "That '70s Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Weird Al Show",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "Jumanji: The Animated Series",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "Superman: The Animated Series",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Jamie Foxx Show",
+        "age_rating": "age 12+"
+    },
+    {
+        "title": "The Steve Harvey Show",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "Mr. Show",
+        "age_rating": "age 16+"
+    },
+    {
+        "title": "The Drew Carey Show",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Jeff Foxworthy Show",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "Jim Henson's Animal Show with Stinky and Jake",
+        "age_rating": "age 3+"
+    },
+    {
+        "title": "Late Show with David Letterman",
+        "age_rating": "age 14+"
+    },
+    {
+        "title": "The Addams Family (Animated TV Series)",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "Batman: The Animated Series",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Larry Sanders Show",
+        "age_rating": "age 15+"
+    },
+    {
+        "title": "The Ren & Stimpy Show",
+        "age_rating": "age 12+"
+    },
+    {
+        "title": "Tom and Jerry Kids Show",
+        "age_rating": "age 5+"
+    },
+    {
+        "title": "Super Mario Bros. Super Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "Fraggle Rock: The Animated Series",
+        "age_rating": "age 4+"
+    },
+    {
+        "title": "Ghostbusters: The Animated Series",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Oprah Winfrey Show",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "The Really Wild Show",
+        "age_rating": "age 5+"
+    },
+    {
+        "title": "The Cosby Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "Spider-Man (1981 TV Show)",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Muppet Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Bob Newhart Show",
+        "age_rating": "age 10+"
+    },
+    {
+        "title": "The Pebbles and Bamm-Bamm Show",
+        "age_rating": "age 5+"
+    },
+    {
+        "title": "The Mary Tyler Moore Show",
+        "age_rating": "age 11+"
+    },
+    {
+        "title": "The Archie Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Banana Splits and Friends Show",
+        "age_rating": "age 4+"
+    },
+    {
+        "title": "The Carol Burnett Show",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "The Secret Squirrel Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Addams Family (Live Action TV Series)",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Patty Duke Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Johnny Carson Show",
+        "age_rating": "age 13+"
+    },
+    {
+        "title": "The Dick Van Dyke Show",
+        "age_rating": "age 7+"
+    },
+    {
+        "title": "The Yogi Bear Show",
+        "age_rating": "age 5+"
+    },
+    {
+        "title": "The Dick Tracy Show",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Mr. Magoo Show",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Andy Griffith Show",
+        "age_rating": "age 6+"
+    },
+    {
+        "title": "The Abbott and Costello Show",
+        "age_rating": "age 8+"
+    },
+    {
+        "title": "The Roy Rogers Show",
+        "age_rating": "age 8+"
+    }
+]
